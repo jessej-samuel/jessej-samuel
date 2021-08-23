@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jessej-samuel
-- 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning C++ and JavaScript
-- 💞️ I’m looking to collaborate on Python projects
+- 👋 Hi, I’m @jessej-samuel.
+- 👀 I know Python and Java.
+- 🌱 I’m currently developing libGDX projects.
+- 💞️ I’m looking to collaborate on Python projects.
 
 <!---
 jessej-samuel/jessej-samuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
