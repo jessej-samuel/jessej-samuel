@@ -1,6 +1,7 @@
+### Hi, there!
 - 👋 Hi, I’m @jessej-samuel.
-- 👀 I know Python and Java.
-- 🌱 I’m currently developing libGDX projects.
+- 👀 I know Python, Java, C++ and C.
+- 🌱 I’m currently developing Pygame projects.
 - 💞️ I’m looking to collaborate on Python projects.
 
 <!---
