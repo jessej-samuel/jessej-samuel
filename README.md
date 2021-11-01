@@ -1,7 +1,7 @@
 ### Hi, there!
 - 👋 Hi, I’m @jessej-samuel.
 - 👀 I know Python, Java, C++ and C.
-- 🌱 I’m currently developing Pygame projects.
+- 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate on Python projects.
 
 <!---
