@@ -1,6 +1,7 @@
 ### Hi, there!
 - 👋 Hi, I’m @jessej-samuel.
-- 👀 I know Python, Java, C++ and C.
+- 👀 I know Python, JavaScript, C++ and C.
+- 💻 I'm currently working on my portfolio
 - 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
