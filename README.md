@@ -18,6 +18,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jessej-samuel&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
+## Contributions
+![snake gif](https://github.com/jessej-samuel/jessej-samuel/blob/output/github-contribution-grid-snake.gif)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
