@@ -1,7 +1,10 @@
 ![Github Banner](https://user-images.githubusercontent.com/72020411/194852010-a3d3d135-c5df-49d5-8653-4c17ca0eb907.png)
 
 ## 💫 About Me:
-👋 Hi, I’m [@jessej-samuel](https://github.com/jessej-samuel).<br>👀 Feel free to go through my repos<br>💻 I'm currently working on AirTraveler<br>🌱 I’m learning computer networks.<br>💞️ I’m looking to collaborate on JavaScript projects.<br>💬 Ask me about optimizing web experiences<br>⚡ I change domains every 2 months :)<br>📞 You can contact me at CodeRxJesseJ#8889 on Discord
+👋 Hi, I’m [@jessej-samuel](https://github.com/jessej-samuel).<br>👀 Feel free to go through my repos<br>💻 I'm currently working on AirTraveler<br>🌱 I’m learning computer networks.<br>💞️ I’m looking to collaborate on JavaScript projects.<br>💬 Ask me about optimizing web experiences<br>⚡ I change domains every 2 months :)<br>➕ Add me on Discord, you might find me listening to 🎶
+```
+CodeRxJesseJ#8889
+``` 
 
 
 ## 🌐 Socials:
